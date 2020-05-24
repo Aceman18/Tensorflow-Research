@@ -126,6 +126,3 @@ dmypy.json
 
 # Models
 *.h5
-
-# Converted tfjs models
-*.bin
